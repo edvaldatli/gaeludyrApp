@@ -3,21 +3,133 @@
     "id": 0,
     "brand": "Orijen",
     "subname": "Original",
-    "netto": "11,4",
+    "netto": "11400",
     "price": "15.370"
   },
   {
     "id": 1,
     "brand": "Orijen",
     "subname": "Original",
-    "netto": "2",
+    "netto": "2000",
     "price": "4.765"
   },
   {
     "id": 2,
     "brand": "Orijen",
-    "subname": "Original",
-    "netto": "2",
-    "price": "4.765"
+    "subname": "Puppy",
+    "netto": "11400",
+    "price": "16.439"
+  },
+  {
+    "id": 3,
+    "brand": "Orijen",
+    "subname": "Puppy",
+    "netto": "2000",
+    "price": "4.750"
+  },
+  {
+    "id": 4,
+    "brand": "Orijen",
+    "subname": "Puppy",
+    "netto": "340",
+    "price": "946"
+  },
+  {
+    "id": 5,
+    "brand": "Orijen",
+    "subname": "Puppy",
+    "netto": "6000",
+    "price": "10.090"
+  },
+  {
+    "id": 6,
+    "brand": "Orijen",
+    "subname": "Puppy Large",
+    "netto": "11400",
+    "price": "16.439"
+  },
+  {
+    "id": 7,
+    "brand": "Orijen",
+    "subname": "Six Fish",
+    "netto": "11400",
+    "price": "19.560"
+  },
+  {
+    "id": 8,
+    "brand": "Orijen",
+    "subname": "Six Fish",
+    "netto": "2000",
+    "price": "5.555"
+  },
+  {
+    "id": 9,
+    "brand": "Orijen",
+    "subname": "Regional Red",
+    "netto": "11400",
+    "price": "20.550"
+  },
+  {
+    "id": 10,
+    "brand": "Orijen",
+    "subname": "Regional Red",
+    "netto": "2000",
+    "price": "6.073"
+  },
+  {
+    "id": 11,
+    "brand": "Orijen",
+    "subname": "Regional Red",
+    "netto": "340",
+    "price": "1.291"
+  },
+  {
+    "id": 12,
+    "brand": "Orijen",
+    "subname": "Tundra",
+    "netto": "11400",
+    "price": "21.990"
+  },
+  {
+    "id": 13,
+    "brand": "Orijen",
+    "subname": "Tundra",
+    "netto": "2000",
+    "price": "5.790"
+  },
+  {
+    "id": 14,
+    "brand": "Orijen",
+    "subname": "Fit & Trim",
+    "netto": "11400",
+    "price": "16.490"
+  },
+  {
+    "id": 15,
+    "brand": "Orijen",
+    "subname": "Fit & Trim",
+    "netto": "2000",
+    "price": "5.150"
+  },
+  {
+    "id": 16,
+    "brand": "Orijen",
+    "subname": "Senior",
+    "netto": "11400",
+    "price": "15.831"
+  },
+  {
+    "id": 17,
+    "brand": "Orijen",
+    "subname": "Senior",
+    "netto": "2000",
+    "price": "4.952"
+  },
+  {
+    "id": 18,
+    "brand": "Orijen",
+    "subname": "Senior",
+    "netto": "340",
+    "price": "1.014"
   }
 ]}
