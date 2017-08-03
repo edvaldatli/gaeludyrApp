@@ -1,0 +1,52 @@
+html{
+  height: 100%;
+  color: white;
+}
+body{
+  height: 100%;
+  color: white;
+  overflow: hidden;
+}
+aside{
+  overflow: auto;
+}
+.navbar-item{
+  color: white;
+}
+.navbar-link{
+  color: white;
+}
+.navbar-link.is-active{
+  color: gray;
+}
+.menu-list a{
+  padding: 2em 2em;
+}
+.aside{
+  margin-top: 20px;
+  padding-left: 30px;
+  overflow: auto;
+}
+.navbar{
+  background-color: #E91D25;
+  color: white;
+}
+.columns{
+  height: 100%;
+  color: white;
+}
+.navbar-burger span{
+  background-color: white;
+}
+.main-label{
+  font-size: 1em;
+}
+.food-pic{
+  margin: auto;
+  vertical-align: middle;
+  display:inline-block;
+}
+.food-link{
+  line-height: 110px;
+  font-size: 1em;
+}
